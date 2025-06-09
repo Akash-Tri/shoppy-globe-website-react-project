@@ -1,0 +1,1 @@
+import{j as e}from"./index-CJIK_wgq.js";function t(){return e.jsxs("div",{className:"not-found",children:[e.jsx("h2",{children:"404 - Page Not Found"}),e.jsx("p",{children:"Sorry, the page you requested does not exist.Go to Home instead!"})]})}export{t as default};
